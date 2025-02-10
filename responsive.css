@@ -1,0 +1,155 @@
+@media screen and (max-width:690px){
+    nav ul{
+        display: none;
+      }
+     
+      .content{
+        height: 80%;
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        
+      }
+
+      .picture{
+        height: 40%;
+    width: 80%;
+      }
+      .picture img{
+        height: 100%;
+        width: 100%;
+      }
+      .text{
+        height: 60%;
+        width: 80%;
+        gap: 0px;
+    
+    }
+.show ul{
+  background-color: white;
+ 
+}
+.navbar-nav .nav-link {
+  color: black;
+}
+.navbar-toggler {
+  border: none;
+  outline: none;
+}
+.text h2{
+font-size: 22px;
+}
+
+.text p{
+  font-size: 12px;
+  font-family: sans-serif;
+}
+
+.text .bt1{
+margin-top: 0px;
+font-size: 12px;
+}
+main{
+  height: 80%;
+  width: 95%;
+}
+
+form{
+  width: 85%;
+}
+
+.input{
+  width: 80%;
+  font-size: 10px;
+
+}
+form input{
+  padding:10px;
+}
+footer{
+  height: 5%;
+  font-size: 10px;
+  align-items: center;
+}
+
+.contents{
+  height: 90%;
+    width: 100%;
+    gap: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+    margin-left: 20px;
+}
+.box{
+  height: 200px;
+  width: 155px;
+}
+
+.box img{
+  height: 180px;
+  width: 155px;
+  border-radius: 10px;
+}
+
+.about-pic{
+  display: none;
+
+}
+
+.about-div{
+  background-color: rgba(255, 255, 255, 0.425);
+  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+  overflow-y: scroll;
+}
+
+.about-div p{
+  padding: 5px;
+  font-size:10px;
+}
+
+.header{
+  height: 15%;
+}
+.header h5{
+  font-size: 18px;
+  padding-bottom: 7px;
+}
+.header p{
+  font-size: 10px;
+}
+
+.date{
+  height: 20%;
+  align-self: self-start;
+  margin-left: 20px;
+}
+
+.date h3{
+  margin-bottom: 20px;
+}
+
+.info p{
+  font-size: 10px;
+  margin-bottom: 10px;
+}
+
+.date .inputs input{
+
+  padding: 5px;
+color: black;
+border: none;
+}
+
+.contact .inputses input{
+ margin-bottom: 20px;
+ margin-right: 10px;
+}
+}
+
